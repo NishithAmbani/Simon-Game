@@ -1,2 +1,2 @@
-# Simon-Game
+# Simon-Game!
 This is a Simon Game, Enjoy!!
